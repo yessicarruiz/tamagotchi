@@ -1,3 +1,31 @@
 .title1{
-    background-color: blue;
+    color: green;
+}
+
+#backgroundImage {
+    font-weight: 30px;
+    box-sizing: 20px;
+    width: 40%;
+    align-items: center;
+    margin-left: 25%;
+    padding: 50px;
+}
+.tamagotchiShape {
+    border-radius: 1300000px;
+    background-color: rgb(248, 227, 249);
+    margin: 10%;
+    line-height: 15;
+    width: 50%;
+    display: grid;
+    border-color: black;
+    
+}
+button {
+    margin: 5%;
+    display: inherit;
+    border-radius: 20%;
+    flex-direction: row;
+    padding: 2%;
+    width: 50%;
+    margin-left: 30%;
 }
